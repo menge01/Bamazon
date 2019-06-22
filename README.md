@@ -1,12 +1,12 @@
 
-Overview
+Overview<br/>
 Create an Amazon-like storefront with the MySQL. The app will take in orders from customers and deplete stock from the store's inventory. Bonus task: Program the app to track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store.
 
 
-Bamazon Customer View
+Bamazon Customer View<br/>
 Running 'bamazonCustomer.js` will first display all of the items available for sale. This will include the ids, names, prices of products for sale and the stock quantity.
 
-The app will then prompt users with two messages.
+The app will then prompt users with two messages.<br/>
 
 The first will ask for the ID of the product that they would like to buy.
 The second message will ask how many units of the product they would like to buy.
