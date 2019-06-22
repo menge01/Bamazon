@@ -1,5 +1,6 @@
 
 # Node.js-mysql# Node.js & MySQL
+Create an Amazon-like storefront with the MySQL. The app will take in orders from customers and deplete stock from the store's inventory. Bonus task: Program the app to track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store.
 
 
 ![bamazoncustomer](https://user-images.githubusercontent.com/39536292/55172413-67125900-5150-11e9-9f32-5f8af1b227e8.GIF)
